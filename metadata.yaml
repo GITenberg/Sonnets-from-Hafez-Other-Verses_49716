@@ -1,10 +1,16 @@
 _repo: Sonnets-from-Hafez-Other-Verses_49716
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 49716-h/images/cover.jpg
 creator:
   author:
     agent_name: Bridges, Elizabeth
     gutenberg_agent_id: '45506'
     url: http://www.gutenberg.org/2009/agents/45506
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/49716#Sonnets-from-Hafez-Other-Verses
 gutenberg_issued: '2015-08-16'
 gutenberg_type: Text
 identifiers:
